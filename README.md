@@ -5,7 +5,7 @@
 
 Versus is a training project developed in one month *(4 Sprints)* with the same stack and under the same conditions as a real project.
 
-:satellite:[Link to the Backend API Repository](https://github.com/O-clock-Cheesecake/projet-5-versus-back)
+:satellite:[Link to the Backend API Repository](https://github.com/rami-rostom/versus-api)
 
 <br />
 
@@ -30,13 +30,13 @@ Application built using [TypeScript](https://www.typescriptlang.org/), [Vitejs](
 Clone the project
 
 ```bash
-  git clone https://github.com/O-clock-Cheesecake/projet-5-versus
+  git clone git@github.com:rami-rostom/versus-front.git
 ```
 
 Go to the project directory 
 
 ```bash
-  cd /projet-5-versus
+  cd versus-front/
 ```
 
 Install dependencies
